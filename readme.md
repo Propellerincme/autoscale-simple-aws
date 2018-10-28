@@ -7,7 +7,7 @@
 ### 1- Getting started
 * Usage of a new AWS account is recommended.
 * Create two SSH Keys in EC2 AWS console under `Key Pairs` in the left sidebar under Networks & Security. One key for the bastion host and another for your application.
-* Sample application - https://github.com/Tanbouz/cloudformation-django-sample
+* Sample application - https://github.com/Propellerincme/autoscale-simple-aws-sample-project.git
 
 **These CloudFormation templates will exceed your free tier. They will cost at least 70 USD / month.**
 
