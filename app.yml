@@ -15,7 +15,7 @@ Parameters:
     Description: GitHub token to allow CodePipeline access to the code repo. Create here https://github.com/settings/tokens
   AppRepo:
     Type: String
-    Default: "cloudformation-django-sample"
+    Default: "autoscale-simple-aws-sample-project"
     Description: Repository name on GitHub
   AppBranch:
     Type: String
