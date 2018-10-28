@@ -2,6 +2,8 @@
 
 ## Autoscaling infrastructure for a web application with basic deployment.
 
+![Architecture diagram](media/apps-on-cloud-generic.png?raw=true "Autoscaling application architecture")
+
 ### 1- Getting started
 * Usage of a new AWS account is recommended.
 * Create two SSH Keys in EC2 AWS console under `Key Pairs` in the left sidebar under Networks & Security. One key for the bastion host and another for your application.
